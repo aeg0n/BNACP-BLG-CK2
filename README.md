@@ -10,6 +10,14 @@ On request of CK2 Reddit community, I am releasing part of those personal change
 
 What this mod basically does is, it revamps the Celtic and Norse portraits by using the base German model for faces while retaining their garb, hair, and other physical features making them different from Vanilla Celtics and Norse portraits. 
 
+For example, before using the submod you see:
+
+![alt text](https://github.com/aeg0n/BNACP-BLG-CK2/blob/master/Screenshots/harald_before.png)
+
+And after using the mod you see:
+
+![alt text](https://github.com/aeg0n/BNACP-BLG-CK2/blob/master/Screenshots/harald_after.png)
+
 ## Pre-Requisites
 
 You need the following to run this sub-mod:
