@@ -25,6 +25,7 @@ You need the following to run this sub-mod:
 1. BLG mod
 2. Norse portraits DLC
 3. Celtic portraits DLC
+4. Monks and Mystics DLC
 
 ## How to use
 
